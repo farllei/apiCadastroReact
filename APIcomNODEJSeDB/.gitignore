@@ -2,8 +2,7 @@ node_modules
 # Keep environment variables out of version control
 .env
 # stores classified info to DB
-
-readme.txt
+readMEMain.txt
 # stores relevant info and steps for me only, as I´m developing knowledge and 
 want to keep track of my evolution as a programmer
 
